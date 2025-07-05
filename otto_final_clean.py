@@ -10,6 +10,7 @@ import json
 import time
 import speech_recognition as sr
 import anthropic
+import openai
 from elevenlabs import generate, play, set_api_key
 import threading
 import queue
@@ -23,6 +24,8 @@ load_dotenv()
 # Konfiguration
 TRIGGER_WORDS = ['otto', 'ordo', 'ordu', 'odo', 'orden']
 CLAUDE_API_KEY = os.getenv('ANTHROPIC_API_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+OPENAI_MODEL = os.getenv('OPENAI_MODEL', 'gpt-3.5-turbo')
 ELEVENLABS_API_KEY = os.getenv('ELEVENLABS_API_KEY')
 VOICE_ID = os.getenv('ELEVENLABS_VOICE_ID', 'pNInz6obpgDQGcFmaJgB')  # Adam Voice
 
@@ -245,6 +248,13 @@ class OttoVoiceAgent:
             self.claude_client = anthropic.Anthropic(api_key=CLAUDE_API_KEY)
         else:
             self.claude_client = None
+
+        # OpenAI Client
+        if OPENAI_API_KEY:
+            openai.api_key = OPENAI_API_KEY
+            self.openai_available = True
+        else:
+            self.openai_available = False
         
         # ElevenLabs Setup
         if ELEVENLABS_API_KEY:
@@ -321,20 +331,35 @@ class OttoVoiceAgent:
                     max_tokens=150,
                     messages=[{
                         "role": "user",
-                        "content": f"""Du bist Otto, ein empathischer, strukturierter Task-Begleiter. 
+                        "content": f"""Du bist Otto, ein empathischer, strukturierter Task-Begleiter.
                         MCP-Level: {mcp_analysis['mcp_level']}
                         Kontext: {context}
                         Benutzer-Input: {input_text}
-                        
+
                         Antworte kurz, empathisch und hilfreich. Maximal 2 Sätze."""
                     }]
                 )
                 return response.content[0].text.strip()
             except Exception as e:
                 print(f"❌ Claude-Fehler: {e}")
-                return self.generate_local_response(input_text, mcp_analysis)
-        else:
-            return self.generate_local_response(input_text, mcp_analysis)
+
+        # Fallback: OpenAI
+        if self.openai_available:
+            try:
+                response = openai.ChatCompletion.create(
+                    model=OPENAI_MODEL,
+                    messages=[{
+                        "role": "user",
+                        "content": f"Du bist Otto, ein empathischer, strukturierter Task-Begleiter.\nMCP-Level: {mcp_analysis['mcp_level']}\nKontext: {context}\nBenutzer-Input: {input_text}\nAntworte kurz, empathisch und hilfreich. Maximal 2 Sätze."
+                    }],
+                    max_tokens=150
+                )
+                return response.choices[0].message["content"].strip()
+            except Exception as e:
+                print(f"❌ OpenAI-Fehler: {e}")
+
+        # Lokaler Fallback
+        return self.generate_local_response(input_text, mcp_analysis)
     
     def generate_local_response(self, input_text, mcp_analysis):
         """Generiert lokale Antwort basierend auf MCP-Analyse"""
@@ -406,6 +431,7 @@ class OttoVoiceAgent:
         print(f"🎯 Trigger-Wörter: {', '.join(TRIGGER_WORDS)}")
         print(f"🧠 MCP-System: Aktiviert")
         print(f"🎤 Claude API: {'✅ Verfügbar' if self.claude_client else '❌ Nicht verfügbar'}")
+        print(f"🤖 OpenAI API: {'✅ Verfügbar' if self.openai_available else '❌ Nicht verfügbar'}")
         print(f"🎵 ElevenLabs: {'✅ Verfügbar' if ELEVENLABS_API_KEY else '❌ Nicht verfügbar'}")
         print("🎤 Höre passiv zu... (Sage eines der Trigger-Wörter)")
         print("=" * 60)
