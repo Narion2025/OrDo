@@ -73,8 +73,12 @@ class OttoOpenAIFixed:
     def setup_openai(self):
         """Initialisiert OpenAI mit korrekter Version"""
         try:
-            # Lade API-Key aus .env oder verwende Standard
-            api_key = os.getenv('OPENAI_API_KEY', 'sk-7f784c3c4dc74dde1d037474d515709047ad9b577fb48f28')
+            # Lade API-Key aus .env
+            api_key = os.getenv('OPENAI_API_KEY')
+            if not api_key:
+                print("⚠️  OpenAI API-Key nicht gefunden")
+                self.openai_available = False
+                return
             openai.api_key = api_key
             self.openai_available = True
             print("✅ OpenAI erfolgreich initialisiert")

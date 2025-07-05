@@ -14,7 +14,7 @@ from elevenlabs import generate, save, set_api_key
 set_api_key("sk_7f784c3c4dc74dde1d037474d515709047ad9b577fb48f28")
 
 # OpenAI Setup (Fallback für komplexe Antworten)
-openai.api_key = "sk-7f784c3c4dc74dde1d037474d515709047ad9b577fb48f28"  # Verwende ElevenLabs Key als Platzhalter
+openai.api_key = os.getenv('OPENAI_API_KEY')  # Lade aus Umgebungsvariablen
 
 # Ordo-spezifische Konfiguration
 KANBAN_PATH = os.path.expanduser("~/Documents/Ordo/Ordo_Kanban.json")
