@@ -656,5 +656,152 @@
     "content": "Lernte: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
     "mcp_level": 1,
     "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:36:31.487642",
+    "source": "otto",
+    "content": "Lernte: mein lieber stell mir eine",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:37:19.744302",
+    "source": "otto",
+    "content": "Lernte: bist du noch da",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:37:23.870790",
+    "source": "otto",
+    "content": "Lernte: wie steht der timer",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:37:35.826277",
+    "source": "otto",
+    "content": "Lernte: schließe mal bitte alle offenen prozesse",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:37:44.518082",
+    "source": "otto",
+    "content": "Lernte: zu tun hat und dann startet es komplett von vorne neu jede datei neu",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:51:25.937399",
+    "source": "otto",
+    "content": "Lernte: hallo",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:51:45.966252",
+    "source": "otto",
+    "content": "Lernte: test auto",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:52:05.964372",
+    "source": "otto",
+    "content": "Lernte: okay wir haben nur noch zwei stimmen und zwar einmal",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:52:14.640188",
+    "source": "otto",
+    "content": "Lernte: dimme von eleven labs und die stimme von eleven",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:52:24.171465",
+    "source": "otto",
+    "content": "Lernte: oder hat sie mich verstanden und sie hat gesagt",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:52:30.490452",
+    "source": "otto",
+    "content": "Lernte: stopp sie hat mich sogar verstanden",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:52:39.593992",
+    "source": "otto",
+    "content": "Lernte: kannst du mich verstehen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:52:50.677568",
+    "source": "otto",
+    "content": "Lernte: stell mir eine gute",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:52:59.752826",
+    "source": "otto",
+    "content": "Lernte: analysieren und strukturieren",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:53:04.274872",
+    "source": "otto",
+    "content": "Lernte: nicht lernen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:53:12.280681",
+    "source": "otto",
+    "content": "Lernte: lerne ben",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:53:17.945061",
+    "source": "otto",
+    "content": "Lernte: was genau soll ich strukturieren mein gehirn",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:53:24.113721",
+    "source": "otto",
+    "content": "Lernte: du sollst mein gehirn",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:53:30.474041",
+    "source": "otto",
+    "content": "Lernte: strukturieren",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:53:52.597540",
+    "source": "otto",
+    "content": "Lernte: und jetzt fragst du mich aber was soll ich strukturieren dann",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:54:00.715383",
+    "source": "otto",
+    "content": "Lernte: was soll ich strukturieren was soll ich sagen was stimmt dann nicht",
+    "mcp_level": 1,
+    "type": "learning"
   }
 ]
