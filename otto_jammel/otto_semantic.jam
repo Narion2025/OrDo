@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2025-07-05T05:42:21.138148",
+    "source": "system",
+    "content": "Initialisiere semantic Jammeldatei",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T05:47:21.322436",
+    "source": "otto",
+    "content": "Passiv erkannt: ich trau mich nicht das zu sagen das endet sonst wie früher bewertung vergangenheit",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T05:47:35.687076",
+    "source": "otto",
+    "content": "Passiv erkannt: ich habe angst dass ich wieder enttäuscht werde",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T05:56:33.968453",
+    "source": "otto",
+    "content": "Passiv erkannt: nach fehlern suchen und wir machen jetzt hier weiter",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T05:56:34.187831",
+    "source": "otto",
+    "content": "Passiv erkannt: was wird repository und der soll mal nach fehlern suchen und wir machen jetzt hier weiter",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T05:56:50.816770",
+    "source": "otto",
+    "content": "Passiv erkannt: ich höre eine zweite stimme von ihm die hört sich an wie jemand der",
+    "type": "semantic"
+  }
+]

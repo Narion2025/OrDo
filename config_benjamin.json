@@ -1,0 +1,33 @@
+{
+    "projektstil": "flie\u00dfend",
+    "arbeitsweise": "parallel, iterativ, in Wellen",
+    "aufgabe_form": {
+        "titel": true,
+        "funktion": true,
+        "ziel": true
+    },
+    "tools": {
+        "board": "Kanban",
+        "visuell": [
+            "Miro",
+            "Canvas"
+        ],
+        "ki": [
+            "generativ",
+            "no-code"
+        ],
+        "kalender": true,
+        "messenger": true,
+        "textanalyse": true
+    },
+    "wunschfunktionen": {
+        "dateien_aus_mails": false,
+        "call_agent": true,
+        "copy_paste_automatik": true,
+        "wissensb\u00fcndelung": "semantisch"
+    },
+    "sprache": {
+        "stil": "direkt, strukturiert, impulsiv",
+        "emotion": "nicht pers\u00f6nlich nehmen, als Energie verstehen"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "projektstil": "strukturiert",
+    "arbeitsweise": "resonant, iterativ, präzise",
+    "aufgabe_form": {
+        "titel": true,
+        "funktion": true,
+        "ziel": true,
+        "semantic_context": true,
+        "referenz_id": true
+    },
+    "tools": {
+        "board": "Kanban",
+        "visuell": [
+            "Miro",
+            "Canvas"
+        ],
+        "ki": [
+            "semantisch",
+            "marker-basiert",
+            "cosd-drift-analyse"
+        ],
+        "kalender": true,
+        "messenger": false,
+        "textanalyse": true,
+        "marker_system": true
+    },
+    "wunschfunktionen": {
+        "dateien_aus_mails": false,
+        "passive_task_recognition": true,
+        "semantic_marker_analysis": true,
+        "structural_questions": true,
+        "copy_paste_automatik": false,
+        "wissensbündelung": "semantisch-resonant"
+    },
+    "sprache": {
+        "stil": "ruhig, strukturiert, präzise",
+        "emotion": "neutral, empathisch, ordnend",
+        "trigger": "ordo"
+    },
+    "semantic_config": {
+        "marker_threshold": 0.7,
+        "drift_analysis": true,
+        "cosd_integration": true,
+        "passive_listening": true,
+        "question_frequency": "vorsichtig"
+    },
+    "llm_config": {
+        "primary": "openai_gpt4",
+        "secondary": "mistral_7b_local",
+        "fallback_threshold": 0.8,
+        "context_window": 4000
+    },
+    "voice_config": {
+        "voice_id": "kXV9fIZ5YNtH4TFjs2sD",
+        "model": "eleven_multilingual_v2",
+        "style": "ruhig, klar, strukturiert"
+    }
+} 

@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Nietzsche Kanban</title>
+    <style>
+        body { font-family: sans-serif; background: #111; color: #eee; margin: 0; padding: 20px; }
+        h2 { text-align: center; }
+        .board { display: flex; gap: 20px; justify-content: center; }
+        .column { background: #222; padding: 10px; border-radius: 8px; width: 300px; min-height: 400px; }
+        .column h3 { text-align: center; }
+        .card { background: #333; margin: 10px 0; padding: 10px; border-radius: 5px; cursor: grab; }
+        .card:hover { background: #444; }
+    </style>
+</head>
+<body>
+    <h2>Nietzsche Kanban</h2>
+    <div class="board">
+        <div class="column" id="todo"><h3>🧠 To Do</h3></div>
+        <div class="column" id="erledigt"><h3>✅ Erledigt</h3></div>
+    </div>
+    <script>
+        async function loadBoard() {
+            const res = await fetch('/kanban');
+            const board = await res.json();
+            for (let item of board["To Do"]) {
+                const card = document.createElement("div");
+                card.className = "card";
+                card.draggable = true;
+                card.textContent = item;
+                card.ondragstart = e => e.dataTransfer.setData("text/plain", item);
+                document.getElementById("todo").appendChild(card);
+            }
+            for (let item of board["Erledigt"]) {
+                const card = document.createElement("div");
+                card.className = "card";
+                card.textContent = item;
+                card.draggable = true;
+                card.ondragstart = e => e.dataTransfer.setData("text/plain", item);
+                document.getElementById("erledigt").appendChild(card);
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            loadBoard();
+            const cols = document.querySelectorAll(".column");
+            cols.forEach(col => {
+                col.ondragover = e => e.preventDefault();
+                col.ondrop = async e => {
+                    e.preventDefault();
+                    const data = e.dataTransfer.getData("text/plain");
+                    const target = e.currentTarget.id;
+                    await fetch("/update", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ text: data, column: target })
+                    });
+                    location.reload();
+                };
+            });
+        });
+    </script>
+</body>
+</html>
