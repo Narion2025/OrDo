@@ -236,5 +236,425 @@
     "content": "Lernte: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
     "mcp_level": 1,
     "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:00:47.483341",
+    "source": "otto",
+    "content": "Lernte: so hallo  wie geht's dir",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:00:47.485442",
+    "source": "otto",
+    "content": "Lernte: so hallo  wie geht's dir",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:00:53.371324",
+    "source": "otto",
+    "content": "Lernte: entschuldigung ich kann das gerade nicht verarbeiten",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:00:53.611828",
+    "source": "otto",
+    "content": "Lernte: entschuldigung ich kann das gerade nicht verarbeiten",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:01:05.049712",
+    "source": "otto",
+    "content": "Lernte: bis zum richtigen verzeichnis",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:01:09.578905",
+    "source": "otto",
+    "content": "Lernte: entschuldigung",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:01:12.406891",
+    "source": "otto",
+    "content": "Lernte: entschuldigung ich kann das gerade nicht",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:01:16.122171",
+    "source": "otto",
+    "content": "Lernte: was ist denn mit eleven labs",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:02:05.017194",
+    "source": "otto",
+    "content": "Lernte: welche tasks stehen als nächstes",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:02:05.073718",
+    "source": "otto",
+    "content": "Lernte: welche tasks stehen als nächstes",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:02:11.495398",
+    "source": "otto",
+    "content": "Lernte: entschuldigung ich kann das gerade nicht verarbeiten",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:02:11.612689",
+    "source": "otto",
+    "content": "Lernte: entschuldigung ich kann das gerade nicht verarbeiten",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:02:20.933757",
+    "source": "otto",
+    "content": "Lernte: okay also die stimme von von open air sagt die ganze zeit entschuldigung ich kann es",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:02:21.164323",
+    "source": "otto",
+    "content": "Lernte: okay also die stimme von von open air sagt die ganze zeit entschuldigung kannst",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:02:28.091903",
+    "source": "otto",
+    "content": "Lernte: entschuldigung ich kann das gerade nicht verarbeiten",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:02:29.196486",
+    "source": "otto",
+    "content": "Lernte: erstmal bitte entschuldigung ich kann das gerade nicht verarbeiten",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:03:05.129996",
+    "source": "otto",
+    "content": "Lernte: bist du da",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:03:11.956844",
+    "source": "otto",
+    "content": "Lernte: ich verstehe deine anfrage wie kann ich dir",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:03:11.990079",
+    "source": "otto",
+    "content": "Lernte: ich verstehe deine anfrage wie kann ich dir helfen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:03:23.272554",
+    "source": "otto",
+    "content": "Lernte: nein nein ist es nicht ausgezeichnet das haben drei stimmen jetzt gesprochen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:03:29.221021",
+    "source": "otto",
+    "content": "Lernte: ich verstehe nicht verstanden deine",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:03:34.638531",
+    "source": "otto",
+    "content": "Lernte: wie kann ich",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:14.128452",
+    "source": "otto",
+    "content": "Lernte: hallo ich bin  dein stiller begleiter wie",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:14.348569",
+    "source": "otto",
+    "content": "Lernte: hallo ich bin  dein stiller begleiter wie",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:21.681692",
+    "source": "otto",
+    "content": "Lernte: hallo ich bin",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:22.279088",
+    "source": "otto",
+    "content": "Lernte: hallo ich bin  dein still",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:26.961667",
+    "source": "otto",
+    "content": "Lernte: ich verstehe",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:27.154136",
+    "source": "otto",
+    "content": "Lernte: ich verstehe",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:33.491748",
+    "source": "otto",
+    "content": "Lernte: ich verstehe deine angst wie kann ich dir helfen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:33.721595",
+    "source": "otto",
+    "content": "Lernte: ich verstehe deine angst wie kann ich dir helfen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:06:38.061796",
+    "source": "otto",
+    "content": "Lernte: verstehe deine anfrage wie kann",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:10:31.311590",
+    "source": "otto",
+    "content": "Lernte: okay  geht es besser",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:10:31.451818",
+    "source": "otto",
+    "content": "Lernte: okay  jetzt ist besser",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:10:43.147779",
+    "source": "otto",
+    "content": "Lernte: lerne deutsch",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:10:43.357026",
+    "source": "otto",
+    "content": "Lernte: netto lerne deutsch",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:10:47.381737",
+    "source": "otto",
+    "content": "Lernte: ich verstehe deine",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:10:47.498163",
+    "source": "otto",
+    "content": "Lernte: ich verstehe deine",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:10:53.617090",
+    "source": "otto",
+    "content": "Lernte: nein",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:10:53.664388",
+    "source": "otto",
+    "content": "Lernte: nein",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:51.776577",
+    "source": "otto",
+    "content": "Lernte: hallo",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:51.998545",
+    "source": "otto",
+    "content": "Lernte: hallo",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:59.497529",
+    "source": "otto",
+    "content": "Lernte: hallo hallo ich bin  dein stiller begleiter",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:24:00.006519",
+    "source": "otto",
+    "content": "Lernte: hallo hallo ich bin  dein stiller begleiter",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:24:14.825125",
+    "source": "otto",
+    "content": "Lernte: wie kann ich dir helfen ich verstehe deine entschuldigung",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:24:15.642203",
+    "source": "otto",
+    "content": "Lernte: wie kann ich dir helfen ich verstehe deine entschuldigung ich kann",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:24:18.444422",
+    "source": "otto",
+    "content": "Lernte: wie kann ich dir helfen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:24:18.862017",
+    "source": "otto",
+    "content": "Lernte: ndr 1 radio wie kann ich dir helfen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:27:04.259617",
+    "source": "otto",
+    "content": "Lernte: ",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:27:04.261088",
+    "source": "otto",
+    "content": "Lernte: ",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:27:10.335269",
+    "source": "otto",
+    "content": "Lernte: verstehe deine nachricht verstehe deine anfang",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:27:10.620591",
+    "source": "otto",
+    "content": "Lernte: erstelle deine nachrichten",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:27:14.600452",
+    "source": "otto",
+    "content": "Lernte: ich verstehe deine anfrage",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:09.327162",
+    "source": "otto",
+    "content": "Lernte: stell mir eine frage die",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:09.381289",
+    "source": "otto",
+    "content": "Lernte: stell mir eine frage die",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:17.242377",
+    "source": "otto",
+    "content": "Lernte: stehlampe einschalten",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:17.331791",
+    "source": "otto",
+    "content": "Lernte: stehlampe einschalten deine anfrage wie kann ich dir helfen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:23.216459",
+    "source": "otto",
+    "content": "Lernte: das laufen immer noch alles stimmen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:23.251571",
+    "source": "otto",
+    "content": "Lernte: es laufen immer noch alles stimmen",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:28.561539",
+    "source": "otto",
+    "content": "Lernte: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
+    "mcp_level": 1,
+    "type": "learning"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:28.884124",
+    "source": "otto",
+    "content": "Lernte: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
+    "mcp_level": 1,
+    "type": "learning"
   }
 ]

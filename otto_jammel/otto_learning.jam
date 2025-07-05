@@ -1,212 +1,56 @@
 [
   {
-    "timestamp": "2025-07-05T05:42:21.138259",
-    "source": "system",
-    "content": "Initialisiere learning Jammeldatei",
+    "timestamp": "2025-07-05T06:27:14.599581",
+    "source": "otto",
+    "content": "Lernte aus: ich verstehe deine anfrage",
     "type": "learning"
   },
   {
-    "timestamp": "2025-07-05T05:42:57.467148",
+    "timestamp": "2025-07-05T06:28:09.326807",
     "source": "otto",
-    "content": "Lernte aus: okay  hörst du mich",
+    "content": "Lernte aus: stell mir eine frage die",
     "type": "learning"
   },
   {
-    "timestamp": "2025-07-05T05:43:03.364399",
+    "timestamp": "2025-07-05T06:28:09.380817",
     "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht verarbeiten",
+    "content": "Lernte aus: stell mir eine frage die",
     "type": "learning"
   },
   {
-    "timestamp": "2025-07-05T05:43:13.405914",
+    "timestamp": "2025-07-05T06:28:17.241710",
     "source": "otto",
-    "content": "Lernte aus: entschuldigung ich",
+    "content": "Lernte aus: stehlampe einschalten",
     "type": "learning"
   },
   {
-    "timestamp": "2025-07-05T05:43:19.943449",
+    "timestamp": "2025-07-05T06:28:17.331249",
     "source": "otto",
-    "content": "Lernte aus: und sagt er wieder und wieder und wieder was ist los und warum macht er das",
+    "content": "Lernte aus: stehlampe einschalten deine anfrage wie kann ich dir helfen",
     "type": "learning"
   },
   {
-    "timestamp": "2025-07-05T05:43:26.279074",
+    "timestamp": "2025-07-05T06:28:23.215957",
     "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht wär",
+    "content": "Lernte aus: das laufen immer noch alles stimmen",
     "type": "learning"
   },
   {
-    "timestamp": "2025-07-05T05:51:53.631015",
+    "timestamp": "2025-07-05T06:28:23.250933",
     "source": "otto",
-    "content": "Lernte aus: so hallo",
+    "content": "Lernte aus: es laufen immer noch alles stimmen",
     "type": "learning"
   },
   {
-    "timestamp": "2025-07-05T05:52:02.177610",
+    "timestamp": "2025-07-05T06:28:28.561208",
     "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht verarbeiten  was kannst du nicht verarbeiten",
+    "content": "Lernte aus: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
     "type": "learning"
   },
   {
-    "timestamp": "2025-07-05T05:52:08.293972",
+    "timestamp": "2025-07-05T06:28:28.882953",
     "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht verarbeiten",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:08.303669",
-    "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht verarbeiten",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:15.556014",
-    "source": "otto",
-    "content": "Lernte aus: er sagt weiter entschuldigung ich kann das leider nicht verarbeiten und klingt ein bisschen gereizt",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:15.628392",
-    "source": "otto",
-    "content": "Lernte aus: er sagt weiter entschuldigung ich kann das leider nicht verarbeiten und klingt ein bisschen gereizt",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:22.196421",
-    "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht verarbeiten",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:30.744816",
-    "source": "otto",
-    "content": "Lernte aus: sind aktuell die müssen gut sein schieß es wieder an vielleicht geht's",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:30.997507",
-    "source": "otto",
-    "content": "Lernte aus: sind aktuell die müssen gut sein schieß es wieder an vielleicht geht's",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:35.762599",
-    "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht verarbeiten",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:35.911192",
-    "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht verarbeiten",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:43.895663",
-    "source": "otto",
-    "content": "Lernte aus: achso",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:52:43.919065",
-    "source": "otto",
-    "content": "Lernte aus: achso",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:54:03.988691",
-    "source": "otto",
-    "content": "Lernte aus: hallo  so was ist denn los bei dir",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:54:04.040237",
-    "source": "otto",
-    "content": "Lernte aus: hallo  so was ist denn da los bei dir",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:54:08.220062",
-    "source": "otto",
-    "content": "Lernte aus: entschuldigung",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:54:08.225560",
-    "source": "otto",
-    "content": "Lernte aus: entschuldigung",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:54:17.991079",
-    "source": "otto",
-    "content": "Lernte aus: was für eine stimme im hintergrund hast du jemanden",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:54:19.623391",
-    "source": "otto",
-    "content": "Lernte aus: im keller eingesperrt",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:54:25.884142",
-    "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:54:25.995663",
-    "source": "otto",
-    "content": "Lernte aus: entschuldigung ich kann das gerade nicht",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:57:05.000334",
-    "source": "otto",
-    "content": "Lernte aus: hallo",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:57:05.111583",
-    "source": "otto",
-    "content": "Lernte aus: hallo",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:57:13.116367",
-    "source": "otto",
-    "content": "Lernte aus: fragst du wie du mir helfen kannst entschuldigung ich kann das gerade nicht",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:57:13.125147",
-    "source": "otto",
-    "content": "Lernte aus: fragst du wie du mir helfen kannst entschuldigung ich kann das gerade nicht",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:57:28.589493",
-    "source": "otto",
-    "content": "Lerninhalt erkannt: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:57:28.591154",
-    "source": "otto",
-    "content": "Lernte aus: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:57:28.822651",
-    "source": "otto",
-    "content": "Lerninhalt erkannt: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
-    "type": "learning"
-  },
-  {
-    "timestamp": "2025-07-05T05:57:28.823246",
-    "source": "otto",
-    "content": "Lernte aus: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
+    "content": "Lernte aus: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
     "type": "learning"
   }
 ]

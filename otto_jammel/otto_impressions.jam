@@ -1,38 +1,98 @@
 [
   {
-    "timestamp": "2025-07-05T05:57:13.121609",
+    "timestamp": "2025-07-05T06:28:09.324460",
     "source": "otto",
-    "content": "Verarbeite: fragst du wie du mir helfen kannst entschuldigung ich kann das gerade nicht",
+    "content": "Verarbeite: stell mir eine frage die",
     "type": "impressions"
   },
   {
-    "timestamp": "2025-07-05T05:57:13.127213",
+    "timestamp": "2025-07-05T06:28:09.327044",
     "source": "otto",
-    "content": "Eindruck: fragst du wie du mir helfen kannst entschuldigung ich kann das gerade nicht",
+    "content": "Eindruck: stell mir eine frage die",
     "type": "impressions"
   },
   {
-    "timestamp": "2025-07-05T05:57:28.588128",
+    "timestamp": "2025-07-05T06:28:09.379947",
     "source": "otto",
-    "content": "Verarbeite: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
+    "content": "Verarbeite: stell mir eine frage die",
     "type": "impressions"
   },
   {
-    "timestamp": "2025-07-05T05:57:28.591464",
+    "timestamp": "2025-07-05T06:28:09.381130",
     "source": "otto",
-    "content": "Eindruck: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
+    "content": "Eindruck: stell mir eine frage die",
     "type": "impressions"
   },
   {
-    "timestamp": "2025-07-05T05:57:28.822201",
+    "timestamp": "2025-07-05T06:28:17.240023",
     "source": "otto",
-    "content": "Verarbeite: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
+    "content": "Verarbeite: stehlampe einschalten",
     "type": "impressions"
   },
   {
-    "timestamp": "2025-07-05T05:57:28.823474",
+    "timestamp": "2025-07-05T06:28:17.242166",
     "source": "otto",
-    "content": "Eindruck: ja denk dir eine gute frage aus deren antwort dir helfen mich zu verstehen",
+    "content": "Eindruck: stehlampe einschalten",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:17.330301",
+    "source": "otto",
+    "content": "Verarbeite: stehlampe einschalten deine anfrage wie kann ich dir helfen",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:17.331446",
+    "source": "otto",
+    "content": "Eindruck: stehlampe einschalten deine anfrage wie kann ich dir helfen",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:23.214892",
+    "source": "otto",
+    "content": "Verarbeite: das laufen immer noch alles stimmen",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:23.216325",
+    "source": "otto",
+    "content": "Eindruck: das laufen immer noch alles stimmen",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:23.250132",
+    "source": "otto",
+    "content": "Verarbeite: es laufen immer noch alles stimmen",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:23.251305",
+    "source": "otto",
+    "content": "Eindruck: es laufen immer noch alles stimmen",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:28.560292",
+    "source": "otto",
+    "content": "Verarbeite: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:28.561374",
+    "source": "otto",
+    "content": "Eindruck: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:28.881821",
+    "source": "otto",
+    "content": "Verarbeite: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
+    "type": "impressions"
+  },
+  {
+    "timestamp": "2025-07-05T06:28:28.883589",
+    "source": "otto",
+    "content": "Eindruck: du hast sie noch nicht beendet ich sehe die ganzen start aufforderung",
     "type": "impressions"
   }
 ]

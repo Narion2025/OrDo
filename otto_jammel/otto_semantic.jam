@@ -34,5 +34,77 @@
     "source": "otto",
     "content": "Passiv erkannt: ich höre eine zweite stimme von ihm die hört sich an wie jemand der",
     "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:22:47.591868",
+    "source": "otto",
+    "content": "Passiv erkannt: aktuelles problem ist",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:22:47.597008",
+    "source": "otto",
+    "content": "Passiv erkannt: aktuelles problem ist",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:22:59.453606",
+    "source": "otto",
+    "content": "Passiv erkannt: dpd open air oder mit",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:22:59.540413",
+    "source": "otto",
+    "content": "Passiv erkannt: tpt open air oder mit",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:06.180427",
+    "source": "otto",
+    "content": "Passiv erkannt: nur sagt entschuldigung ich habe keine verbindung",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:06.397368",
+    "source": "otto",
+    "content": "Passiv erkannt: nur sagt entschuldigung ich habe keine verbindung",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:08.956741",
+    "source": "otto",
+    "content": "Passiv erkannt: es reagiert eigentlich nicht",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:09.070964",
+    "source": "otto",
+    "content": "Passiv erkannt: reagiert eigentlich nicht",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:16.048226",
+    "source": "otto",
+    "content": "Passiv erkannt: die eleven labs stimmen können angebunden werden meisten",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:16.220436",
+    "source": "otto",
+    "content": "Passiv erkannt: die eleven labs stimmen können angebunden werden meisten",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:24.176112",
+    "source": "otto",
+    "content": "Passiv erkannt: genau und versucht diese fehler zu fixen so dass das llm seine volle funktion",
+    "type": "semantic"
+  },
+  {
+    "timestamp": "2025-07-05T06:23:24.176839",
+    "source": "otto",
+    "content": "Passiv erkannt: was genau und versucht diese fehler zu fixen so dass das llm seine volle funktion",
+    "type": "semantic"
   }
 ]
