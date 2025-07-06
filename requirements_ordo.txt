@@ -36,3 +36,7 @@ python-dotenv>=1.0.0
 # JSON/YAML Verarbeitung
 pyyaml>=6.0
 jsonschema>=4.0.0 
+# RAG utilities
+chromadb>=0.4.0
+sentence-transformers>=2.2.2
+
